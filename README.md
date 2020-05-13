@@ -18,5 +18,6 @@ $ cd fb
 $ python2 gas.py
 
 Username : Debo02
+
 Password : Intan02
 
